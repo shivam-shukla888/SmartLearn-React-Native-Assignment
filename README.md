@@ -71,9 +71,24 @@ src/
 2. Illustrations in the Figma are custom — replaced with emoji placeholders; production build should use `react-native-svg` or image assets.
 3. Auth flow is not implemented — Sign Up / Log In navigate directly to Home.
 
-## Screenshots & Demo
+## 📱 Demo & Screenshots
 
+### Live Demo (Expo Go)
+
+You can run this project directly on your physical device using the **Expo Go** app:
+
+1. Install **Expo Go** from the App Store (iOS) or Google Play Store (Android).
+2. Scan the QR code below:
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=exp://exp.host/@shivam-shukla888/smartlearn" alt="Expo Go QR Code" width="180" height="180" />
+  <br />
+  <em>Note: The QR code points to <code>exp://exp.host/@shivam-shukla888/smartlearn</code>. Make sure you run <code>npx expo publish</code> (or use EAS Update) to publish the build to your Expo account.</em>
+</p>
+
+### App Screenshots
 
 | Analytics Screen | Lesson Detail Screen |
 |:---:|:---:|
 | ![Analytics](./assets/screenshots/analytics.png) | ![Lesson Detail](./assets/screenshots/lesson_detail.png) |
+
