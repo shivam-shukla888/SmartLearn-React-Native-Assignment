@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "SmartLearn",
+    "slug": "smartlearn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1A1A3E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.smartlearn.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1A1A3E"
+      },
+      "package": "com.smartlearn.app"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
