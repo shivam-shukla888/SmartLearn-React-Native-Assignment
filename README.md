@@ -73,7 +73,6 @@ src/
 
 ## Screenshots & Demo
 
-*(Note: Add your screenshots or a link to a screen recording here before submitting)*
 
 | Analytics Screen | Lesson Detail Screen |
 |:---:|:---:|
